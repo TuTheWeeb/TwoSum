@@ -14,6 +14,7 @@ fn two_sum (arr: &Vec<i32>, target: &i32) -> [i32;2] {
 
     // Just to be more readable
     let lenght_arr: usize = arr.len();
+    println!("{}", arr.len());
 
 
     // Rows the first number
