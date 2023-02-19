@@ -1,1 +1,3 @@
-### Solution to TwoSum problem from LeetCode
+# TwoSum LeetCode Rust
+
+Just a solution to the TwoSum problem from LeetCode using Rust
